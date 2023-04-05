@@ -5,7 +5,7 @@ A = [None, 5, 99, 3, 7, 111, 13, 4, 24, 4, 8]
 
 def szukaj_binarnie(A):
 
-    lewy = 1
+    lewy = 56
 
     prawy = n
 
